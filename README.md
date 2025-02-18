@@ -1,7 +1,7 @@
 # Hello, I'm Robert
 <a href="https://linkedin.com/in/robertloyal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+## Introduction
 
 I am a recent recepient of the Google Cybersecurity Professional Certificate with a profound interest in technology and a dedication to solving complex problems.
 
